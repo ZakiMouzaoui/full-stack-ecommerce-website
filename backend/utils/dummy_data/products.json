@@ -1,0 +1,29 @@
+[
+  {
+    "name": "IKEA Table",
+    "brand": "64cdacf6d7a5b13d4a7c96f0",
+    "avgRating": 4.8,
+    "ratingsCount": 23,
+    "description": "A modern and stylish table from IKEA.",
+    "colors": ["White", "Black", "Brown"],
+    "price": 299,
+    "imageCover": "ikea-table.jpg",
+    "images": [],
+    "subcategories": ["63fe61c981013136dcaac631"],
+    "category": "63fe60f981013136dcaac619"
+  }
+,  
+{
+  "name": "IKEA Sofa",
+  "brand": "64cdacf6d7a5b13d4a7c96f0",
+  "avgRating": 4.6,
+  "ratingsCount": 15,
+  "description": "A comfortable sofa for your living room.",
+  "colors": ["Grey", "Blue", "Beige"],
+  "price": 899,
+  "imageCover": "ikea-sofa.jpg",
+  "images": [],
+  "subcategories": ["63fe61c981013136dcaac631"],
+  "category": "63fe60f981013136dcaac619"
+}
+]

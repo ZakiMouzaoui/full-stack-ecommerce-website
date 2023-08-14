@@ -1,0 +1,51 @@
+[
+      {
+        "name": "Nike",
+        "image": "nike-logo.png"
+      },
+      {
+        "name": "Apple",
+        "image": "apple-logo.png"
+      },
+      {
+        "name": "Adidas",
+        "image": "adidas-logo.png"
+      },
+      {
+        "name": "Samsung",
+        "image": "samsung-logo.png"
+      },
+      {
+        "name": "L'Oreal",
+        "image": "loreal-logo.png"
+      },
+      {
+        "name": "Sony",
+        "image": "sony-logo.png"
+      },
+      {
+        "name": "Puma",
+        "image": "puma-logo.png"
+      },
+      {
+        "name": "Microsoft",
+        "image": "microsoft-logo.png"
+      },
+      {
+        "name": "LG",
+        "image": "lg-logo.png"
+      },
+      {
+        "name": "Canon",
+        "image": "canon-logo.png"
+      },
+      {
+        "name": "Gucci",
+        "image": "gucci-logo.png"
+      },
+      {
+        "name": "Chanel",
+        "image": "chanel-logo.png"
+      }
+    ]
+  
